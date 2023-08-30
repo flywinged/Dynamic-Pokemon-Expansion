@@ -98,7 +98,7 @@ enum
 #define TYPE_DARK     0x11
 #define TYPE_ROOSTLESS 0x13
 #define TYPE_BLANK	  0x14
-#define TYPE_FAIRY	  0x17
+#define TYPE_FAIRY	  0x12
 
 #define MON_MALE       0x00
 #define MON_FEMALE     0xFE
